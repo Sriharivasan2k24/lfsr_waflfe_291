@@ -17,4 +17,4 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## External hardware
 
-Push button, LED, DIP switch
+Push button, LED
