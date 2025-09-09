@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+8-bit Linear Feedback Shift Register (LFSR) built in Wokwi using D flip-flops, XOR gates, clock, and reset. It generates pseudo-random binary sequences by shifting register contents with XOR feedback. Using polynomial x⁸+x⁶+x⁵+x⁴+1, it cycles through 255 unique states before repeating.
 
 ## How to test
 
-Explain how to use your project
+8-bit LFSR implemented in Wokwi using D flip-flops, XOR gates, clock, and reset. Generates pseudo-random sequences of 255 unique states before repeating.
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+Push button, LED, DIP switch
